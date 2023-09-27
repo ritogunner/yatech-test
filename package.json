@@ -1,0 +1,15 @@
+{
+  "name": "test-yatech",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "task1": "node logic/task1.js",
+    "task2": "node API/index.js"
+  },
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.2"
+  }
+}
